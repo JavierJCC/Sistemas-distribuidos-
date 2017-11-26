@@ -1,0 +1,9 @@
+//
+// holamundo.idl
+//
+module hola {
+	interface holamundo {
+		void saludo();
+	};
+};
+
